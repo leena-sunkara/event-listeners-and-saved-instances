@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EventListeners</string>
+    <string name="enter_text">Enter Text Here</string>
+    <string name="hello">Hello</string>
+    <string name="click">Click</string>
+    <string name="none" />
+</resources>
